@@ -41,7 +41,7 @@ Le workshop est structuré autour de trois piliers majeurs de l'IA générative,
 
 ---
 
-## 🛠️ Prérequis
+## Prérequis
 
 Pour exécuter les notebooks et reproduire les expériences, vous aurez besoin des éléments suivants :
 
